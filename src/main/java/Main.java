@@ -5,7 +5,6 @@ import org.apache.pdfbox.pdmodel.font.PDFont;
 import org.apache.pdfbox.pdmodel.font.PDType1Font;
 
 import java.io.IOException;
-import java.time.format.DateTimeFormatter;
 import java.util.Calendar;
 import java.util.Scanner;
 
